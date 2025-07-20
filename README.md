@@ -1,6 +1,6 @@
 # Bio-BLASTn Alignment Filtering
 
-This project provides a Python script that analyzes a circular DNA sequence to identify homologous regions within the sequence using BLASTn.
+This project provides a Python script that analyzes a circular DNA sequence to identify homologous regions within the sequence using BLASTn. It extracts distinct, non-overlapping homologous regions.
 
 ## Features
 
