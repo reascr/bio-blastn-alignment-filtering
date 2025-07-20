@@ -11,7 +11,7 @@ This project provides a Python script that analyzes a circular DNA sequence to i
 
 ## Requirements
 
-- Python 3.x  
+- Python 3.8.16
 - biopython==1.83
 - numpy==1.24.4
 
